@@ -8,7 +8,6 @@ MaternalCare is a Flask-based web application providing services for maternal he
 - **Login**: Users can log in with their credentials (email and password).
 - **Password Reset**: Allows users to reset their password via a token-based mechanism.
 - **Articles**: Fetches health-related articles from NewsAPI.
-- **FAQ**: Provides frequently asked questions about maternal health.
 
 ## Requirements
 
