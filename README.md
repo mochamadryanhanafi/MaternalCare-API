@@ -9,6 +9,9 @@ MaternalCare is a Flask-based web application providing services for maternal he
 - **Password Reset**: Allows users to reset their password via a token-based mechanism.
 - **Articles**: Fetches health-related articles from NewsAPI.
 
+## MaternalCare Model Prediction API
+- **LINK**: 
+
 ## API Documentation
 
 - **LINK**: https://app.swaggerhub.com/apis-docs/MochamadRyanHanafi/MaternalCare/1.0.
