@@ -10,7 +10,7 @@ MaternalCare is a Flask-based web application providing services for maternal he
 - **Articles**: Fetches health-related articles from NewsAPI.
 
 ## MaternalCare Model Prediction API
-- **LINK**: 
+- **LINK**: https://github.com/mochamadryanhanafi/MaternalCare-ModelAPI.git
 
 ## API Documentation
 
